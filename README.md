@@ -26,7 +26,6 @@ The system is ideal for dynamic environments such as data centers, IoT deploymen
 ├── 📂 tests/ # Unit and integration tests for code validation
 └── LICENSE # License file
 
-
 ## **Technologies Used**  
 - **Programming Language**: Python  
 - **Libraries and Frameworks**:  
