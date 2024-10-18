@@ -15,3 +15,31 @@ This project is particularly relevant for network administrators and organizatio
 - **Scalable Architecture**: Designed to handle large-scale networks and high traffic volumes.
 
 ## **Project Structure**  
+📦 Earliest-Detection-Anomalies
+├── 📂 data/ # Example datasets for testing and benchmarking 
+├── 📂 models/ # Pre-trained models and training scripts 
+├── 📂 notebooks/ # Jupyter Notebooks for experiments and exploratory analysis 
+├── 📂 src/ # Core codebase with anomaly detection algorithms and SDN modules 
+├── 📂 docs/ # Documentation and usage guidelines
+├── 📂 tests/ # Unit and integration tests └── LICENSE # License file
+
+
+## **Technologies Used**  
+- **Programming Language**: Python  
+- **Libraries and Frameworks**:  
+  - `scikit-learn`, `TensorFlow` / `PyTorch` for machine learning  
+  - `pandas`, `NumPy` for data manipulation  
+  - `Matplotlib`, `Plotly` for visualization  
+- **Network Platforms**:  
+  - OpenFlow, ONOS, Open vSwitch (OVS)  
+  - Mininet for network emulation  
+- **Infrastructure**:  
+  - Docker for containerization  
+  - GitHub Actions for CI/CD pipelines
+
+## **How to Contribute**  
+Contributions are welcome! Follow these steps to get involved:  
+1. **Fork the repository**.  
+2. Create a **branch** for your feature or fix:  
+   ```bash
+   git checkout -b feature/your-feature-name
